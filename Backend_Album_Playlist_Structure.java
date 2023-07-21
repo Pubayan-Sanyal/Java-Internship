@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Album
+class Album
 {
     String name;//name of the album
     String artist;//name of the artist
