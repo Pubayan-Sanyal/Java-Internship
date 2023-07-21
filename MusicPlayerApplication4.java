@@ -1,4 +1,4 @@
-public class Song
+class Song
 {
     String title; //title of the song
     double duration; //duration of the song
